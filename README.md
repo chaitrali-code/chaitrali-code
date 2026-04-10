@@ -10,8 +10,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-F8BBD0?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="YOUR_LEETCODE_LINK" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFD180?style=for-the-badge&logo=leetcode&logoColor=black" />
+<a href="https://www.portfoliotab.io/chaitralicode" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-F9A8D4?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 <a href="mailto:chaitrali678@gmail.com">
