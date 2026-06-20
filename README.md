@@ -7,7 +7,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/chaitrali-tikar-0673672aa/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-F472B6?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://www.portfoliotab.io/chaitralicode)
+[![Resume](https://img.shields.io/badge/Resume-3B82F6?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/chaitrali-code/chaitrali-code/raw/main/Chaitrali_Tikar_Resume.pdf)
 [![Gmail](https://img.shields.io/badge/Gmail-EC4899?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:chaitrali678@gmail.com)
 
 </div>
